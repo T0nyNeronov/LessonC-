@@ -12,6 +12,9 @@ Console.WriteLine("Количество цифр "+getsumnum(num));
 
 int getsumnum (int res)
 {
+    if(res<0){
+        res = - res;
+    }
     int count =0;
 
     while(res>0)

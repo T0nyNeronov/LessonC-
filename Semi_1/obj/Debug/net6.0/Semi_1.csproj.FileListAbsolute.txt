@@ -1,0 +1,16 @@
+C:\Users\Людмила\Desktop\Semi4\Semi_1\bin\Debug\net6.0\Semi_1.exe
+C:\Users\Людмила\Desktop\Semi4\Semi_1\bin\Debug\net6.0\Semi_1.deps.json
+C:\Users\Людмила\Desktop\Semi4\Semi_1\bin\Debug\net6.0\Semi_1.runtimeconfig.json
+C:\Users\Людмила\Desktop\Semi4\Semi_1\bin\Debug\net6.0\Semi_1.dll
+C:\Users\Людмила\Desktop\Semi4\Semi_1\bin\Debug\net6.0\ref\Semi_1.dll
+C:\Users\Людмила\Desktop\Semi4\Semi_1\bin\Debug\net6.0\Semi_1.pdb
+C:\Users\Людмила\Desktop\Semi4\Semi_1\obj\Debug\net6.0\Semi_1.GlobalUsings.g.cs
+C:\Users\Людмила\Desktop\Semi4\Semi_1\obj\Debug\net6.0\Semi_1.csproj.AssemblyReference.cache
+C:\Users\Людмила\Desktop\Semi4\Semi_1\obj\Debug\net6.0\Semi_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Людмила\Desktop\Semi4\Semi_1\obj\Debug\net6.0\Semi_1.AssemblyInfoInputs.cache
+C:\Users\Людмила\Desktop\Semi4\Semi_1\obj\Debug\net6.0\Semi_1.AssemblyInfo.cs
+C:\Users\Людмила\Desktop\Semi4\Semi_1\obj\Debug\net6.0\Semi_1.csproj.CoreCompileInputs.cache
+C:\Users\Людмила\Desktop\Semi4\Semi_1\obj\Debug\net6.0\Semi_1.dll
+C:\Users\Людмила\Desktop\Semi4\Semi_1\obj\Debug\net6.0\ref\Semi_1.dll
+C:\Users\Людмила\Desktop\Semi4\Semi_1\obj\Debug\net6.0\Semi_1.pdb
+C:\Users\Людмила\Desktop\Semi4\Semi_1\obj\Debug\net6.0\Semi_1.genruntimeconfig.cache
